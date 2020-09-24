@@ -21,10 +21,10 @@ body {
   left:50%;
   margin-top:-60px;
   margin-left:-65px;
-  font: 16px 'Open Sans', Helvetica, Arial, sans-serif;
+  font-family: "Montserrat";
   color: #fff;
   text-transform: lowercase;
-  font-family: "Montserrat";
+
 }
 
 #questionButton {
