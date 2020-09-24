@@ -22,8 +22,9 @@ body {
   margin-top:-60px;
   margin-left:-65px;
   font: 16px 'Open Sans', Helvetica, Arial, sans-serif;
-  color: #222;
-  text-transform: uppercase;
+  color: #fff;
+  text-transform: lowercase;
+  font-family: "Montserrat";
 }
 
 #questionButton {
